@@ -1,0 +1,35 @@
+{
+
+    "courses": [
+        {
+            "id": 1,
+            "titulo": "Firebase con Android (2020)",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/edbb2e26-eafa-4e9e-82eb-13b65714ae33.png",
+            "price": 40,
+            "profesor": "Yeltsin Molinero"
+        },
+        {
+            "id": 2,
+            "titulo": "SEO y Analítica Web",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/original/496cb134-1c9c-4e60-b523-21a1f6d1fe69.png",
+            "price": 50,
+            "profesor": "Yeltsin Molinero"
+        },
+        {
+            "id": 3,
+            "titulo": "Programador frontend con Angular",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/original/af23506e-24c8-4633-b813-869e07c108ad.png",
+            "price": 80,
+            "profesor": "Yeltsin Molinero"
+        },
+        {
+            "id": 4,
+            "titulo": "Edición Audiovisual",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/original/10322ac1-7b43-4e12-9000-0c28e04178d6.png",
+            "price": 60,
+            "profesor": "Yeltsin Molinero"
+        }
+    ]
+    
+
+}
